@@ -1,4 +1,4 @@
-[![Carlosdamazio's github stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio)](https://github.com/anuraghazra/github-readme-stats)
+![Carlosdamazio's github stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true)
 
 ### Opa! Tudo bem?
 
