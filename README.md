@@ -1,3 +1,5 @@
+[![Carlosdamazio's github stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Opa! Tudo bem?
 
 Meu nome é Carlos Damázio, sou desenvolvedor de software formado em Ciência da Computação.
