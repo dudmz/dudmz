@@ -5,7 +5,7 @@
 Meu nome é Carlos Damázio, sou desenvolvedor de software formado em Ciência da Computação.
 
 - Sou co-fundador e desenvolvedor na **Zero200**;
-- Sou líder técnico na **AIS Digital**;
+- Sou líder técnico na **ília Digital**;
 
 Meus contatos são:
 - carlos.damazio@zero200.io
