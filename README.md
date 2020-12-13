@@ -1,12 +1,12 @@
 ![Carlosdamazio's github stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true)
 
-### Opa! Tudo bem?
+### What's up?
 
-Meu nome é Carlos Damázio, sou desenvolvedor de software formado em Ciência da Computação.
+I'm Carlos Damázio, bachelor in Computer Science and a software developer.
 
-- Sou co-fundador e desenvolvedor na **Zero200**;
-- Sou líder técnico na **ília Digital** no contrato da BMW;
+- I'm the co-founder and software developer at **Zero200**;
+- I'm a tech lead at **ília Digital** in a contract for BMW;
 
-Meus contatos são:
+These are my e-mail addresses for contact (both business or personal inquiries):
 - carlos.damazio@zero200.io
 - carlos.edamazio@gmail.com
