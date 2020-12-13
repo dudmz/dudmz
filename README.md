@@ -24,18 +24,18 @@
   <a href="#"><img src="https://camo.githubusercontent.com/1d2a00556b0f203fcd7183732ff304d50f51ba59ca208c3fd0289fee20ddddb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6361726c6f7364616d617a696f26636f756e745f707269766174653d74727565"></a>
 </p>
 
-<h3 align='center'>
+<h2 align='center'>
   Current Employment
-</h3>
+</h2>
 
 <p align='center'>
   <h5 align='center'>Co-founder && Software Developer @ Zero200 Software LTDA </h5>
   <h5 align='center'> Tech Lead @ ília Digital </h5>
 </p>
 
-<h3 align='center'>
+<h2 align='center'>
   Tech Stack
-</h3>
+</h2>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,9 +52,9 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<h3 align='center'>
+<h2 align='center'>
   Rig
-</h3>
+</h2>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
