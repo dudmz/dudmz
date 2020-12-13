@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Software developer from Brasilia, Brazil.
+  A software developer from Brasilia, Federal District, Brazil.
 </p>
 
 
