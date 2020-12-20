@@ -29,7 +29,6 @@
 </h2>
 
 <p align='center'>
-  <h5 align='center'>Co-founder && Software Developer @ Zero200 Software LTDA </h5>
   <h5 align='center'> Tech Lead @ ília Digital </h5>
 </p>
 
