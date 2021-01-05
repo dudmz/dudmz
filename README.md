@@ -30,7 +30,6 @@
 
 <p align='center'>
   <h5 align='center'> Tech Lead @ ília Digital </h5>
-  <h5 align='center'> Co-founder && software developer @ Zero200</h5>
 </p>
 
 <h2 align='center'>
