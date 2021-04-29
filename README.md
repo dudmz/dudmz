@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A software developer from Brasilia, Federal District, Brazil.
+  A computer scientist into system development, data engineering and DevOps (automation). I'm from Brasilia, Brazil.
 </p>
 
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://telegram.me/damnazio">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Computer scientist into system development, data engineering and DevOps (automation).Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5561994041648">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
