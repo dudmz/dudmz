@@ -26,7 +26,7 @@
 
 <h2 align='center'>
   Current Employment
-</h2>Computer scientist into system development, data engineering and DevOps (automation).
+</h2>
 
 <p align='center'>
   <h5 align='center'> Tech Lead @ ília Digital </h5>
