@@ -43,5 +43,5 @@
 </p>
 
 <p align='center'>
-  Contact me at <a href='mailto:carlos.edamazio@gmail.com'>carlos.edamazio@gmail.com</a> for business/personal inquiries.
+  Contact me at <a href='mailto:hello@damazio.dev'>hello@damazio.dev</a> for business/personal inquiries.
 </p>
