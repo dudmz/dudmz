@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A computer scientist into system development, data engineering and DevOps (automation). I'm from Brasilia, Brazil.
+  A computer scientist into software development (back-end) and data engineering. I'm from Brasilia, Brazil.
 </p>
 
 
