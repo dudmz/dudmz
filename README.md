@@ -1,14 +1,13 @@
-<h1 align='center'>
+<h1>
   Yo, I'm Carlos Damázio.
 </h1>
 
-<p align='center'>
+<p>
   A computer scientist into system programming and data engineering. I'm from Brasilia, Brazil.
 </p>
 
 
-<p align='center'>
-  
+<p>
   <a href="https://www.linkedin.com/in/carlos-eduardo-c-dam%C3%A1zio/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -20,28 +19,52 @@
   </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://camo.githubusercontent.com/1d2a00556b0f203fcd7183732ff304d50f51ba59ca208c3fd0289fee20ddddb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6361726c6f7364616d617a696f26636f756e745f707269766174653d74727565"></a>
-</p>
+![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true)
 
-<h2 align='center'>
+![python-aisweb](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=python-aisweb&theme=ayu-mirage) ![dist-crawler](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=dist-crawler&theme=ayu-mirage) ![KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=KalcOS&theme=ayu-mirage) ![Rusted KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Rusted-KalcOS&theme=ayu-mirage) ![bilion](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Bilion&theme=ayu-mirage) ![Yaextfs](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=YAextfs&theme=ayu-mirage) ![fix-my-usbc](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=fix-my-usbc&theme=ayu-mirage) ![webmaker](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=webmaker&theme=ayu-mirage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&theme=ayu-mirage&hide=javascript,html,php)
+
+<h2>
   Current Employment
 </h2>
 
-<p align='center'>
-  <h5 align='center'> Software Engineer @ Venmo | Paypal </h5>
+<p>
+  <h5> Software Engineer @ Venmo | Paypal </h5>
 </p>
 
-<h2 align='center'>
+<h2>
+  Programming languages
+</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-00BCC9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-0081D6?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Rust-C64500?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+<h2>
+  Development environment
+</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tmux-019733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DataGrip-00BCC9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge" />
+</p>
+
+<h2>
   Rig
 </h2>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/CPU-Intel_Core_i7_9th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graphics-Nvidia_GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src=" https://img.shields.io/badge/OS-Arch_Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/Intel_Core_i7_9th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nvidia_GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
+<p>
   Contact me at <a href='mailto:hello@damazio.dev'>hello@damazio.dev</a> for business/personal inquiries.
 </p>
