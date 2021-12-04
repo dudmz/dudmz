@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/carlos-eduardo-c-dam%C3%A1zio/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedi&hide=javascript,htmln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://telegram.me/damnazio">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
@@ -23,7 +23,7 @@
 
 ![python-aisweb](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=python-aisweb&theme=ayu-mirage) ![dist-crawler](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=dist-crawler&theme=ayu-mirage) ![KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=KalcOS&theme=ayu-mirage) ![Rusted KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Rusted-KalcOS&theme=ayu-mirage) ![bilion](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Bilion&theme=ayu-mirage) ![Yaextfs](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=YAextfs&theme=ayu-mirage) ![fix-my-usbc](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=fix-my-usbc&theme=ayu-mirage) ![webmaker](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=webmaker&theme=ayu-mirage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&theme=ayu-mirage&hide=javascript,html,php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&theme=ayu-mirage&hide=javascript,html,php,scss,java)
 
 <h2>
   Current Employment
