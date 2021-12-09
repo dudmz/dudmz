@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true)
+![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&theme=ayu-mirage&show_icons=true)
 
 [![python-aisweb](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=python-aisweb&theme=ayu-mirage)](https://github.com/carlosdamazio/python-aisweb) [![dist-crawler](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=dist-crawler&theme=ayu-mirage)](https://github.com/carlosdamazio/dist-crawler) [![KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=KalcOS&theme=ayu-mirage)](https://github.com/carlosdamazio/KalcOS) [![Rusted KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Rusted-KalcOS&theme=ayu-mirage)]((https://github.com/carlosdamazio/Rusted-KalcOS)) [![bilion](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Bilion&theme=ayu-mirage)](https://github.com/carlosdamazio/bilion) [![Yaextfs](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=YAextfs&theme=ayu-mirage)](https://github.com/carlosdamazio/YAextfs) [![fix-my-usbc](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=fix-my-usbc&theme=ayu-mirage)](https://github.com/carlosdamazio/fix-my-usbc) [![webmaker](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=webmaker&theme=ayu-mirage)](https://github.com/carlosdamazio/webmaker)
 
