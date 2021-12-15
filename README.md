@@ -23,7 +23,7 @@
 
 [![python-aisweb](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=python-aisweb&theme=ayu-mirage)](https://github.com/carlosdamazio/python-aisweb) [![dist-crawler](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=dist-crawler&theme=ayu-mirage)](https://github.com/carlosdamazio/dist-crawler) [![KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=KalcOS&theme=ayu-mirage)](https://github.com/carlosdamazio/KalcOS) [![Rusted KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Rusted-KalcOS&theme=ayu-mirage)]((https://github.com/carlosdamazio/Rusted-KalcOS)) [![bilion](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Bilion&theme=ayu-mirage)](https://github.com/carlosdamazio/bilion) [![Yaextfs](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=YAextfs&theme=ayu-mirage)](https://github.com/carlosdamazio/YAextfs) [![fix-my-usbc](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=fix-my-usbc&theme=ayu-mirage)](https://github.com/carlosdamazio/fix-my-usbc) [![webmaker](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=webmaker&theme=ayu-mirage)](https://github.com/carlosdamazio/webmaker)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&theme=ayu-mirage&hide=javascript,html,php,scss,java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&theme=ayu-mirage&hide=javascript,html,php,scss,java,makefile,vim)
 
 <h2>
   Current Employment
