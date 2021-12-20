@@ -23,7 +23,7 @@
 
 [![python-aisweb](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=python-aisweb)](https://github.com/carlosdamazio/python-aisweb) [![dist-crawler](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=dist-crawler)](https://github.com/carlosdamazio/dist-crawler) [![KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=KalcOS)](https://github.com/carlosdamazio/KalcOS) [![Rusted KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Rusted-KalcOS)]((https://github.com/carlosdamazio/Rusted-KalcOS)) [![bilion](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Bilion)](https://github.com/carlosdamazio/bilion) [![Yaextfs](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=YAextfs)](https://github.com/carlosdamazio/YAextfs) [![fix-my-usbc](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=fix-my-usbc)](https://github.com/carlosdamazio/fix-my-usbc) [![webmaker](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=webmaker)](https://github.com/carlosdamazio/webmaker)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&hide=javascript,html,php,scss,java,makefile,vim)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&hide=javascript,html,php,scss,java,makefile,vimscript)
 
 <h2>
   Current Employment
