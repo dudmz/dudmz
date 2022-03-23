@@ -1,5 +1,5 @@
 <h1>
-  Yo, I'm Carlos Damázio.
+  Hey, I'm Carlos.
 </h1>
 
 <p>
