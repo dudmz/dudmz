@@ -6,19 +6,6 @@
   A computer scientist into system programming and data engineering. I'm from Brasilia, Brazil.
 </p>
 
-
-<p>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-c-dam%C3%A1zio/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://telegram.me/damnazio">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5561994041648">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
-  </a>
-</p>
-
 ![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
 
 [![python-aisweb](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=python-aisweb&theme=vue-dark)](https://github.com/carlosdamazio/python-aisweb) [![dist-crawler](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=dist-crawler&theme=vue-dark)](https://github.com/carlosdamazio/dist-crawler) [![KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=KalcOS&theme=vue-dark)](https://github.com/carlosdamazio/KalcOS) [![Centipede](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=centipede&theme=vue-dark)](https://github.com/carlosdamazio/centipede) [![bilion](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Bilion&theme=vue-dark)](https://github.com/carlosdamazio/bilion) [![yafs](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=yafs&theme=vue-dark)](https://github.com/carlosdamazio/yafs) [![fix-my-usbc](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=fix-my-usbc&theme=vue-dark)](https://github.com/carlosdamazio/fix-my-usbc) [![webmaker](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=webmaker&theme=vue-dark)](https://github.com/carlosdamazio/webmaker)
