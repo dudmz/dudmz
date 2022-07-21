@@ -6,12 +6,6 @@
   A computer scientist into system programming and data engineering. I'm from Brasilia, Brazil.
 </p>
 
-![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
-
-[![python-aisweb](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=python-aisweb&theme=vue-dark)](https://github.com/carlosdamazio/python-aisweb) [![dist-crawler](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=dist-crawler&theme=vue-dark)](https://github.com/carlosdamazio/dist-crawler) [![KalcOS](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=KalcOS&theme=vue-dark)](https://github.com/carlosdamazio/KalcOS) [![Centipede](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=centipede&theme=vue-dark)](https://github.com/carlosdamazio/centipede) [![bilion](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=Bilion&theme=vue-dark)](https://github.com/carlosdamazio/bilion) [![webmaker](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamazio&repo=spawner&theme=vue-dark)](https://github.com/carlosdamazio/spawner)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamazio&hide=shell,javascript,html,php,scss,java,makefile,vim%20script&theme=vue-dark&layout=compact&langs_count=8)
-
 <h2>
   Current Employment
 </h2>
