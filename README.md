@@ -5,6 +5,8 @@
 <p>
   A computer scientist into system programming and data engineering. I'm from Brasilia, Brazil.
 </p>
+  
+  ![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&theme=gruvbox)
 
 <h2>
   Current Employment
