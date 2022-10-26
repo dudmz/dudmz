@@ -13,7 +13,7 @@
 </h2>
 
 <p>
-  <h5> Software Engineer @ Alpaca </h5>
+  <h5> Looking for the next role! </h5>
 </p>
 
 <h2>
