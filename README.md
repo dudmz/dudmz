@@ -36,16 +36,6 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tmux-019733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DataGrip-00BCC9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge" />
-</p>
-
-<h2>
-  Rig
-</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Intel_Core_i7_9th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nvidia_GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p>
