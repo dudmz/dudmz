@@ -40,4 +40,5 @@
 
 <p>
   Contact me at <a href='mailto:hello@damazio.dev'>hello@damazio.dev</a> for business/personal inquiries.
+  Or better yet, ping me at <a rel="me" href="https://bolha.us/@damnazio">Mastodon</a>! :)
 </p>
