@@ -13,7 +13,7 @@
 </h2>
 
 <p>
-  <h5> Looking for the next role! </h5>
+  <h5> Software Engineer @ LibLab </h5>
 </p>
 
 <h2>
