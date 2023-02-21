@@ -9,14 +9,6 @@
   ![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&theme=gruvbox)
 
 <h2>
-  Current Employment
-</h2>
-
-<p>
-  <h5> Software Engineer @ LibLab </h5>
-</p>
-
-<h2>
   Programming languages
 </h2>
 
