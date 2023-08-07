@@ -3,10 +3,10 @@
 </h1>
 
 <p>
-  A computer scientist into system programming and data engineering. I'm from Brasilia, Brazil.
+  A computer scientist from Brasilia, Brazil. I'm mostly into back-end, infrastructure, and data engineering. Feel free to hang around. :)
 </p>
   
-  ![Carlos Damazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdamazio&count_private=true&theme=gruvbox)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>
   Programming languages
