@@ -6,7 +6,7 @@
   A computer scientist from Brasilia, Brazil. I'm mostly into back-end, infrastructure, and data engineering. Feel free to hang around. :)
 </p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=carlosdamazio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=carlosdamazio&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>
   Programming languages
