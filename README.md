@@ -31,5 +31,5 @@
 </p>
 
 <p>
-  Contact me at <a href='mailto:hello@damazio.dev'>hello@damazio.dev</a> for business/personal inquiries.
+  Contact me at <a href='mailto:hello@carlosdmz.io'>hello@carlosdmz.io</a> for business/personal inquiries.
 </p>
