@@ -6,7 +6,7 @@
   A computer scientist. I'm mostly into back-end, infrastructure, and data engineering. Feel free to hang around. :)
 </p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=carlosdamazio&theme=gruvbox&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=carlosdmz&theme=gruvbox&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>
   Programming languages
