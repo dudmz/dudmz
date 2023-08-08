@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  A computer scientist from Brasilia, Brazil. I'm mostly into back-end, infrastructure, and data engineering. Feel free to hang around. :)
+  A computer scientist. I'm mostly into back-end, infrastructure, and data engineering. Feel free to hang around. :)
 </p>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=carlosdamazio&theme=gruvbox&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -32,5 +32,4 @@
 
 <p>
   Contact me at <a href='mailto:hello@damazio.dev'>hello@damazio.dev</a> for business/personal inquiries.
-  Or better yet, ping me at <a rel="me" href="https://bolha.us/@damnazio">Mastodon</a>! :)
 </p>
