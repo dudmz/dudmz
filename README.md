@@ -20,16 +20,6 @@
   <img src="https://img.shields.io/badge/Rust-C64500?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-<h2>
-  Development environment
-</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tmux-019733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DataGrip-00BCC9?style=for-the-badge" />
-</p>
-
 <p>
   Contact me at <a href='mailto:hello@carlosdmz.io'>hello@carlosdmz.io</a> for business/personal inquiries.
 </p>
