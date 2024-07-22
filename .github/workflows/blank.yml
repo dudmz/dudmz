@@ -27,8 +27,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: carlosdmz
-          template: classic
+          user: dudmz
+          template: terminal
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: America/Sao_Paulo
