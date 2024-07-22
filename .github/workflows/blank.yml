@@ -73,7 +73,7 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_rss: yes
           plugin_rss_limit: 5
-          plugin_rss_source: https://carlosdmz.io/index.xml
+          plugin_rss_source: https://dudmz.io/index.xml
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
